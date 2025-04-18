@@ -26,7 +26,6 @@ public class SumOfFraction {
         System.out.println((a + b) / Gcd + "/" + Lcm / Gcd);
 
     }
-
     public static int lcm(int n, int p) {
         int n1 = n;
         int p1 = p;
